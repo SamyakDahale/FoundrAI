@@ -1,0 +1,51 @@
+# Core Streamlit
+streamlit>=1.37.0
+
+# LangChain ecosystem
+langchain>=0.2.3
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-chroma>=0.1.2
+langchain-huggingface>=0.0.6
+
+# Vectorstores / Embeddings
+chromadb>=0.5.3
+faiss-cpu
+sentence-transformers>=2.2.2
+
+# Transformers + Torch
+torch>=2.0.0
+transformers>=4.33.0
+accelerate>=0.21.0
+
+# Utilities
+tqdm>=4.65.0
+pandas>=2.1.0
+tiktoken
+python-dotenv
+requests
+openai
+huggingface_hub
+# Core
+streamlit
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.6
+langchain-chroma>=0.1.2
+
+# Embeddings / Vectorstores
+chromadb>=0.5.3
+faiss-cpu
+sentence-transformers>=2.2.2
+
+# Transformers + Torch
+torch>=2.0.0
+transformers>=4.33.0
+accelerate>=0.21.0
+
+# Utilities
+pandas>=2.1.0
+tqdm>=4.65.0
+tiktoken
+python-dotenv
+requests
